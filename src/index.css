@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.custom-card{
+  margin: 32px auto !important;
+}
+.user-header{
+  text-align: center;
+  color:white;
+  font-size:24px;
+  text-transform: uppercase;
+}
+.card-header-btns Button:first-child,
+.modal-footer-btns Button:first-child{
+  margin-right:16px;
+}
+.edit-modal label{
+  width:6em;
+}
+.page-header{
+  text-align:center;
+}
+.btn-create-user{
+  background-color: #4BB543 !important;
+  color:White !important;
+  border: none !important;
+}
+.modal-footer-btns{
+  text-align:end;
+}
+
+
